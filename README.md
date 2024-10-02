@@ -52,7 +52,8 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. Clone the repository:
    
-   https://github.com/MujumdarSahil/RequApps-Template.git```bash
+   https://github.com/MujumdarSahil/RequApps-Template.git
+   bash
   
 Navigate into the project directory:
 

@@ -52,7 +52,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. Clone the repository:
    ```bash
-  
+  https://github.com/MujumdarSahil/RequApps-Template.git
 Navigate into the project directory:
 
 bash
